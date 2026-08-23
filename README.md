@@ -76,6 +76,6 @@ I design and build full-stack software products end-to-end — from architecture
 ### 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=flat&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=tintwym&theme=flat&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
