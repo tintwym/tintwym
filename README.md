@@ -1,10 +1,14 @@
 <h1 align="center">Hi, I'm Tint Wai Yan Min 👋</h1>
 
 <p align="center">
-Independent software developer based in Singapore 🇸🇬, building enterprise SaaS products from the ground up.
+<a href="https://www.linkedin.com/in/tint-wai-yan-min-a689b430b/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
+<a href="https://tint-wai-yan-min.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=googlechrome&logoColor=white" /></a>
 </p>
 
----
+<p align="center">
+Independent software developer based in Singapore 🇸🇬, building enterprise SaaS products from the ground up.
+</p>
 
 ---
 
@@ -62,23 +66,16 @@ I design and build full-stack software products end-to-end — from architecture
 
 | Project | Description |
 |---|---|
-| **Novora** | A full-featured HRMS system for managing employee lifecycle, built with Spring Boot & modern deployment practices |
-| **Pixel Tech e-Commerce** | An e-commerce platform for tech products |
-| **Spice Route AI Recipe** | An AI-powered recipe recommendation app |
-| **Meridian Event Planner** | An event planning and management platform |
+| **Novora** | A full-featured HRMS platform that streamlines employee lifecycle management — covering onboarding, attendance, payroll, and performance tracking — built with Spring Boot and deployed on cloud-native infrastructure. |
+| **Pixel Tech e-Commerce** | A modern e-commerce platform for tech products, featuring product catalog management, cart & checkout flow, and a responsive UI designed for a smooth shopping experience. |
+| **Spice Route AI Recipe** | An AI-powered recipe recommendation app that suggests dishes based on user preferences and available ingredients, combining a clean UI with intelligent backend logic. |
+| **Meridian Event Planner** | An end-to-end event planning and management platform that helps organizers schedule events, manage guest lists, and coordinate logistics through an intuitive interface. |
 
 ---
 
-### 📊 GitHub Stats
+### 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" alt="GitHub Stats" />
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=flat&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
-
----
-
-### 📫 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tint-wai-yan-min-a689b430b/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://tint-wai-yan-min.vercel.app/)
 
